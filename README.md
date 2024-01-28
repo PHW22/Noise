@@ -21,7 +21,7 @@
 為了明顯看出添加雜訊的效果，使用兩種不同大小的圖片，512x512像素的萊娜圖和32x32像素cifar10資料庫內的其中一張圖片。
 | 萊娜圖 | cifar10 |
 | --- | --- |
-| <img src="https://github.com/PHW22/Noise/assets/116903114/5c20a6b0-8d5d-431c-b824-ee72c1f09158" style="width: 225px; height: auto;" /> | <img src="https://github.com/PHW22/Noise/assets/116903114/e2e1bbf2-178d-4e1d-a850-1924c8e5264c" style="width: 225px; height: auto;" /> |
+| <img src="https://github.com/PHW22/Noise/assets/116903114/5c20a6b0-8d5d-431c-b824-ee72c1f09158" style="width: 200px; height: auto;" /> | <img src="https://github.com/PHW22/Noise/assets/116903114/e2e1bbf2-178d-4e1d-a850-1924c8e5264c" style="width: 200px; height: auto;" /> |
 
 
 
